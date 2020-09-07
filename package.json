@@ -1,0 +1,36 @@
+{
+  "name": "front-end",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "serve-lint": "vue-cli-service serve --fix",
+    "build": "vue-cli-service build",
+    "dev": "vue-cli-service build --mode dev",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "animate.css": "^4.1.0",
+    "axios": "^0.20.0",
+    "core-js": "^3.6.5",
+    "tailwindcss": "^1.8.4",
+    "vue": "^2.6.12",
+    "vue-meta": "^2.4.0",
+    "vue-router": "^3.4.3",
+    "vuex": "^3.5.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.5.4",
+    "@vue/cli-plugin-eslint": "^4.5.4",
+    "@vue/cli-service": "^4.5.4",
+    "@vue/eslint-config-prettier": "^6.0.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.8.1",
+    "eslint-plugin-prettier": "^3.1.4",
+    "eslint-plugin-vue": "^6.2.2",
+    "node-sass": "^4.14.1",
+    "prettier": "^2.1.1",
+    "sass-loader": "^9.0.3",
+    "vue-template-compiler": "^2.6.12"
+  }
+}
