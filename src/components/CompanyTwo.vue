@@ -51,6 +51,7 @@
               Lưu trữ và cập nhật thông tin thanh toán của người dùng (credit
               card) trên GMO
             </li>
+            <li>...</li>
           </ul>
         </ul>
       </div>
