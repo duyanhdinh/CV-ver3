@@ -37,7 +37,7 @@
             >
           </li>
           <li>
-            <span class="font-semibold">Công việc: </span
+            <span class="font-semibold">My work: </span
             ><span class="italic text-gray-700"></span>
           </li>
           <ul class="italic text-gray-700">

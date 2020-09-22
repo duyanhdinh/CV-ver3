@@ -35,7 +35,7 @@
             ><span class="italic text-gray-700">php 5, mysql, vueJs 3</span>
           </li>
           <li>
-            <span class="font-semibold">Công việc: </span
+            <span class="font-semibold">My work: </span
             ><span class="italic text-gray-700"
               >maintain và upgrade technique.</span
             >
@@ -66,7 +66,7 @@
             >
           </li>
           <li>
-            <span class="font-semibold">Công việc: </span
+            <span class="font-semibold">My work: </span
             ><span class="italic text-gray-700"></span>
           </li>
           <ul class="italic text-gray-700">
@@ -101,16 +101,19 @@
             ><span class="italic text-gray-700">CakePhp, AngularJs, Aws</span>
           </li>
           <li>
-            <span class="font-semibold">Công việc: </span
+            <span class="font-semibold">My work: </span
             ><span class="italic text-gray-700"></span>
           </li>
           <ul class="italic text-gray-700">
+            <li>Đẩy code, build web, release app cho khách hàng.</li>
             <li>
-              Quản lý xưởng in, thêu của các công ty bán quần áo, ốp lưng điện
-              thoại,… từ khâu in ấn đến xuất hóa đơn
+              Giao task, check, merge code, hướng dẫn, quản lý các bạn mới.
             </li>
-            <li>Tạo các tính năng mới (quản lý và thực thi máy thêu, ..)</li>
-            <li>Hướng dẫn, quản lý các bạn mới cho dự án.</li>
+            <li>
+              Maintain và tạo mới các tình năng quản lỹ xưởng in, thêu của các
+              công ty bán quần áo, ốp lưng điện thoại,… từ khâu in ấn đến xuất
+              hóa đơn
+            </li>
           </ul>
         </ul>
       </div>

@@ -25,7 +25,7 @@
     <wanted>
       <div class="text-6xl capitalize mb-4">Kinh nghiệm làm việc</div>
       <company-two></company-two>
-      <div class="text-4xl capitalize mb-4">Thành tích <span class="text-xl text-gray-600 italic lowercase">(bé bé, xinh xinh)</span></div>
+      <div class="text-4xl capitalize mb-4">Thành tích</div>
       <achievement></achievement>
     </wanted>
   </div>
