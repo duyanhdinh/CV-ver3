@@ -29,7 +29,7 @@
         <div class="w-1/2 h-6 text-left text-xl font-semibold">Git</div>
         <div class="w-1/2 h-6 text-left text-xl italic">1.5 years</div>
         <div class="w-1/2 h-6 text-left text-xl font-semibold">Docker</div>
-        <div class="w-1/2 h-6 text-left text-xl italic">1 year</div>
+        <div class="w-1/2 h-6 text-left text-xl italic">2 months</div>
         <div class="w-full h-12"></div>
         <div class="w-full"></div>
       </div>
