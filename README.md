@@ -3,7 +3,7 @@
 ## Note
 This is my cv since Sep 2020, the information in the cv has changed at present. 
 
-URL: [asd](dd)
+URL: [https://duyanhdinh.github.io/CV-ver3/](https://duyanhdinh.github.io/CV-ver3/)
 
 ## Project setup
 ```
