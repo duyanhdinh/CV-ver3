@@ -1,5 +1,6 @@
 const path = require("path");
 module.exports = {
+  publicPath: '/CV-ver3/',
   configureWebpack: {
     resolve: {
       alias: {
