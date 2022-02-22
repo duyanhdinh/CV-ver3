@@ -9,7 +9,7 @@
       <div class="w-1/2">D.O.B</div>
       <div class="w-1/2 text-right">04 Nov 1995</div>
       <div class="w-1/2">Email</div>
-      <div class="w-1/2 text-right">duyanhscor@gmail.com</div>
+      <div class="w-1/2 text-right">demo@mail.com</div>
       <div class="w-1/2">Phone</div>
       <div class="w-1/2 text-right">0965 ... ...</div>
       <div class="w-1/2">Github</div>
